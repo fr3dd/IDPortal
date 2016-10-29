@@ -1,4 +1,6 @@
-Microsoft Forefront Identity Manager and Microsoft Identity Manager Portal environments.
+# IDPortal
+This repository contains a set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Forefront Identity Manager and Microsoft Identity Manager Portal environments.
+
 ## Features
 * Provides a more PowerShell-friendly way to leverage the Microsoft FIMAutomation snap-in
 * Provides a way to execute XPath queries and see the results in a PowerShell collection
